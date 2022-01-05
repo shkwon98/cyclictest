@@ -1,4 +1,4 @@
-# Latency_test
+# RPi_Latency_test
 
 ## Latency Test 설치
 

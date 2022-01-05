@@ -16,6 +16,7 @@
 ## Latency test 결과 그래프
     
     ~ $ sudo apt-get install gnuplot-x11
-    ~ $ git clone https://github.com/shkwon98/Latency_test/blob/main/mklatencyplot.bash mklatencyplot
+    ~ $ mkdir mklatencyplot
     ~ $ cd mklatencyplot
+    ~/mklatencyplot $ wget https://raw.githubusercontent.com/shkwon98/Latency_test/main/mklatencyplot.bash
     ~/mklatencyplot $ sudo bash mklatencyplot.bash

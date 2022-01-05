@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 1. Run cyclictest
-cyclictest -l1000000 -m -n -S -p90 -i200 -h400 -q >output 
+cyclictest -l500000 -m -n -S -p90 -i200 -h400 -q >output 
 
 # 2. Get maximum latency
 max=`grep "Max Latencies" output | tr " " "\n" | sort -n | tail -1 | sed s/^0*//`

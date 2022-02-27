@@ -1,7 +1,8 @@
 # Cyclictest
 Real-time benchmark for RTOS
 
-#
+---
+
 ### INSTALL:
 
     ~ $ sudo apt-get install -y build-essential git

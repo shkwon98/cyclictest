@@ -18,7 +18,7 @@ Real-time benchmark for RTOS
     
 ### PLOTTING:
     
-    ~ $ sudo apt-get install gnuplot-x11
+    ~ $ sudo apt-get install -y gnuplot-x11
     ~ $ mkdir mklatencyplot
     ~ $ cd mklatencyplot
     ~/mklatencyplot $ wget https://raw.githubusercontent.com/shkwon98/RPi_Latency_test/main/mklatencyplot.bash

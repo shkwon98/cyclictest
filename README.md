@@ -1,4 +1,4 @@
-# Cyclictest
+# cyclictest
 Real-time benchmark for RTOS
 
 ---
@@ -21,5 +21,5 @@ Real-time benchmark for RTOS
     ~ $ sudo apt-get install -y gnuplot-x11
     ~ $ mkdir mklatencyplot
     ~ $ cd mklatencyplot
-    ~/mklatencyplot $ wget https://raw.githubusercontent.com/shkwon98/RPi_Latency_test/main/mklatencyplot.bash
+    ~/mklatencyplot $ wget https://raw.githubusercontent.com/shkwon98/cyclictest/main/mklatencyplot.bash
     ~/mklatencyplot $ sudo bash mklatencyplot.bash
